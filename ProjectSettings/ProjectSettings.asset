@@ -650,6 +650,8 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Build: 1
+    Collab: 1
     UNet: 1
   luminIcon:
     m_Name: 
@@ -663,10 +665,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 046553ed-d0a4-4b2a-8636-e5ba9bad6529
+  cloudProjectId: 4186297c-81f9-4136-a777-af12f3d8c94b
   framebufferDepthMemorylessMode: 0
   projectName: HostageRoom
-  organizationId: kiminlee2000225
+  organizationId: goldbear584
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0

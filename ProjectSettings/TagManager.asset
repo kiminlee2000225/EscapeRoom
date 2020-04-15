@@ -6,6 +6,10 @@ TagManager:
   tags:
   - key
   - door
+  - White
+  - Blue
+  - Red
+  - Black
   layers:
   - Default
   - TransparentFX
